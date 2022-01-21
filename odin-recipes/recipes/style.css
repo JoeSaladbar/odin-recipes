@@ -1,0 +1,12 @@
+h1{
+    font-family: Georgia, Helvetica,  sans-serif;
+}
+
+body{
+    background-color: beige; 
+}
+
+#image{
+    border-style: solid; 
+    border-color: #db575e; 
+}
